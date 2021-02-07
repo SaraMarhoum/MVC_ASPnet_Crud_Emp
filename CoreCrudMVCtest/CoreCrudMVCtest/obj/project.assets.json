@@ -8661,11 +8661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\CoreCrudMVCtest\\CoreCrudMVCtest\\CoreCrudMVCtest.csproj",
+      "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\MVC_ASPnet_Crud_Emp\\CoreCrudMVCtest\\CoreCrudMVCtest\\CoreCrudMVCtest.csproj",
       "projectName": "CoreCrudMVCtest",
-      "projectPath": "C:\\Users\\Youcode\\source\\repos\\CoreCrudMVCtest\\CoreCrudMVCtest\\CoreCrudMVCtest.csproj",
+      "projectPath": "C:\\Users\\Youcode\\Desktop\\MVC_ASPnet_Crud_Emp\\CoreCrudMVCtest\\CoreCrudMVCtest\\CoreCrudMVCtest.csproj",
       "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youcode\\source\\repos\\CoreCrudMVCtest\\CoreCrudMVCtest\\obj\\",
+      "outputPath": "C:\\Users\\Youcode\\Desktop\\MVC_ASPnet_Crud_Emp\\CoreCrudMVCtest\\CoreCrudMVCtest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
