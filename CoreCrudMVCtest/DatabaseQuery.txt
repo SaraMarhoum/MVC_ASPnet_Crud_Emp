@@ -1,0 +1,9 @@
+CREATE DATABASE EMP; 
+
+create table EmployeeTable(
+Empid int not null Primary Key identity(1,1),
+Empname varchar(150) ,
+Email varchar(150),
+Age int,
+Salary int
+);
